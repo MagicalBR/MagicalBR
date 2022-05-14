@@ -6,3 +6,5 @@
 - 🌱 **Aprendendo nada**
 
  ![Snake animation](https://github.com/MagicalBR/MagicalBR/blob/output/github-contribution-grid-snake.svg)
+ 
+ </div>
